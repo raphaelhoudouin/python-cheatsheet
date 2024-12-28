@@ -1,4 +1,4 @@
-Python Cheatsheet 📘🐍
+Python Cheatsheet 🐍
 
 ## Overview:
 This repository is a comprehensive and organized collection of Python code snippets, examples, and notes, this cheatsheet covers essential Python concepts, tips, and best practices.
