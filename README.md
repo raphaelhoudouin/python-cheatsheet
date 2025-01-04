@@ -7,3 +7,7 @@ This repository is a comprehensive and organized collection of Python code snipp
 Easy-to-follow examples for each concept.
 Covers Python 3.13.1 with clear explanations.
 
+## Contact
+
+For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
+GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
